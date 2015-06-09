@@ -37,6 +37,7 @@ public class IniciarSesion extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
 
         titleTypeUser.setFont(new java.awt.Font("Tahoma", 1, 24)); // NOI18N
         titleTypeUser.setText("textUser");

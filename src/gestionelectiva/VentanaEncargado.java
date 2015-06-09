@@ -58,6 +58,7 @@ public class VentanaEncargado extends javax.swing.JFrame {
         jLabel13.setText("Analisis de Diseño Orientado a Objetos");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setResizable(false);
 
         jLabel1.setFont(new java.awt.Font("Lucida Grande", 1, 18)); // NOI18N
         jLabel1.setText("Bienvenido Encargado");
