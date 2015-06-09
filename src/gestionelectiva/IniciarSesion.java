@@ -121,15 +121,15 @@ public class IniciarSesion extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try{
             if("Bienvenido Coordinador".equals(titleTypeUser.getText())){
-                if( (inputUser.getText().equals("coordinadorEST")) && (inputPass.getText().equals("123456")) ){
+                //if( (inputUser.getText().equals("coordinadorEST")) && (inputPass.getText().equals("123456")) ){
                     VentanaCoordinador ventanaCoordinador = new VentanaCoordinador();
                     ventanaCoordinador.setVisible(true);
                     this.dispose();
-                }else{
-                    JOptionPane.showMessageDialog( null , "Por favor verifica la dirección de correo o contraseña.");
+                //}else{
+                //    JOptionPane.showMessageDialog( null , "Por favor verifica la dirección de correo o contraseña.");
                            // + "\ncorreo: " + inputUser.getText()
                            // + "\ncontraseña: " + inputPass.getText() );
-                }
+                //}
                     
             }else{
                 VentanaEncargado ventanaEncargado = new VentanaEncargado();
