@@ -3,6 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/Users/marcos/Desktop/gestionElectiva/src/gestionelectiva/IniciarSesion.java</file>
+            <file>file:/Users/marcos/Desktop/gestionElectiva/src/gestionelectiva/VentanaCoordinador.java</file>
+            <file>file:/Users/marcos/Desktop/gestionElectiva/src/gestionelectiva/VentanaEncargado.java</file>
+            <file>file:/Users/marcos/Desktop/gestionElectiva/src/gestionelectiva/loginWindows.java</file>
+        </group>
     </open-files>
 </project-private>
